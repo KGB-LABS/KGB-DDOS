@@ -1,7 +1,2 @@
-sys
-os
-time
-socket
-random
 datetime
 pyfiglet
